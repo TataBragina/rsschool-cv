@@ -8,10 +8,10 @@ work with banks, auditors, tax authority, etc
 
 ## Work experience:
 
-### 2011-2022 Anchia Trading Limited, Cyprus
++ ### 2011-2022 Anchia Trading Limited, Cyprus
     Position: Director. Opening and work organization of trading company which deliver medical equipment from EU, USA, Asia to Russia
     
-### 2000-2011 Delrus Inc, Russia
++ ### 2000-2011 Delrus Inc, Russia
     Position: Finacial manager. Work with banks, payments, letters of credit, intra-corporate loans, etc
     
 ## Education:
