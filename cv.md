@@ -10,7 +10,18 @@ ________________________________________________________________________________
 
 ## Work experience:
 
+### 2011-2022 Anchia Trading Limited, Cyprus
+    Position: Director. Opening and work organization of trading company which deliver medical equipment from EU, USA, Asia to Russia
+### 2000-2011 Delrus Inc, Russia
+    Position: Finacial manager. Work with banks, payments, letters of credit, intra-corporate loans, etc
+    
+## Education:
+            
+* 1991 - 1995 Beloyarskiy college, Zarechniy *Programmer*
+                
+* 1995 - 1999 Ural University, Ekaterinburg *Economist*
 
+* 2022        RS School *Front end developer*     
 
-
-
+## Languages and extra knowlendge:
+    English (intermediate), Russian (native), Greek (intermediate). Driving licence (category B)
